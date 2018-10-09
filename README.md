@@ -19,7 +19,7 @@
 9. Navigate to your VSCode folder. Use `ls` or `dir` to ensure you see all the files here. **REMEMBER TO BE SAVING FILES WITH `.JS` AT THE END.** In your terminal of choice, run  `nodemon -q ${location of your file}`. You will see the terminal display either nothing - or whatever `console.log`'s exist within your file. Every time you save - it will reprint results to the- terminal!
 
 ## Videos
-Videos can be found - Coming Soon!!!
+Videos can be found [here](https://www.youtube.com/playlist?list=PL0medk5vA90pidxggSVwSYKFAMoB5uI3T)!
 
 ## Notes
 You can make a Github account and use it to go to the issues tab on this page and file `issues` with the README or any part of this setup/codebase that isn't working for you!
