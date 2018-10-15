@@ -246,7 +246,7 @@ const mySlice = (anArr, startIdx = 0, endIdx = anArr.length) => {
 
 // Reverse surprise: reverses an array.
 
-console.log(copyArr.reverse());
+// console.log(copyArr.reverse());
 
 
 
